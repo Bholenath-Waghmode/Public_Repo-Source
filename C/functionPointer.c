@@ -18,7 +18,7 @@ int operationCallRegister(int (*fun)(int x, int y)) {
 }
 
 int main(void) {
-    operationCallRegister(add);
+    operationCallReg(add);
 
     // Added a safety check in main just in case registration fails
     if (callback != NULL) {
