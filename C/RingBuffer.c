@@ -1,4 +1,6 @@
 // Ring buffer implementation in C17
+//Author:Bholenath Waghmode
+//Date: 2026/07/17  
 #include <stdio.h>  
 
 typedef unsigned int uint32_t; // Define uint32_t for C17

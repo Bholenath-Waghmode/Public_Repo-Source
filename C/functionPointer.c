@@ -1,3 +1,6 @@
+//Author:Bholenath Waghmode
+//Date: 2026/07/17  
+
 #include <stdio.h>
 
 int add(int a, int b) {
