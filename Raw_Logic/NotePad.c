@@ -36,5 +36,6 @@ void main(){
 	
 	char myStr[100]="abcd";
 	
+	
 }
 
